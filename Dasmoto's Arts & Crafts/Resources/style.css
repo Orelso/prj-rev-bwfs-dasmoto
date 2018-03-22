@@ -26,6 +26,7 @@ h1{
   font-weight: bold;
   color: white;
   background-color: lightcoral;
+}
 
 #paints{
     font-family: Helvetica;
@@ -33,3 +34,4 @@ h1{
     font-weight: bold;
     color: white;
     background-color: skyblue;
+  }
